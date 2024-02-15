@@ -1,0 +1,8 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# ide
+.vscode
+.lambda-test-tool
+
